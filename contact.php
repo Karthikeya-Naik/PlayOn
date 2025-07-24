@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     /* Page header section */
     .page-header {
         background: linear-gradient(rgba(11, 78, 140, 0.71), rgba(8, 58, 104, 0.81)),
-            url('uploads/images/hero1.png') no-repeat center center/cover;
+            url('uploads/images/hero1.webp') no-repeat center center/cover;
         padding: 100px 0;
         position: relative;
         overflow: hidden;
@@ -227,7 +227,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         left: 0;
         width: 100%;
         height: 100%;
-        background: url('uploads/images/hero1.png') no-repeat center center/cover;
+        background: url('uploads/images/hero1.webp') no-repeat center center/cover;
         opacity: 0.1;
     }
 

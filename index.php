@@ -57,7 +57,7 @@ session_start();
     }
 
     .hero-section {
-        background: url('uploads/images/hero1.png') no-repeat center center/cover;
+        background: url('uploads/images/hero1.webp') no-repeat center center/cover;
         min-height: 700px;
         display: flex;
         align-items: center;
